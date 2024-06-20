@@ -1,0 +1,8 @@
+1.FORK THE PROJECT
+2."git clone github-link"
+3.CHECKING THROUGH THE "PROJECT README FILE FOR KNOWING MORE ABOUT THE WORK...
+4.CREATING NEW BRANCH NAME WITH: git checkout -b "choosing-any-branch-name-you-want"
+make----------your----changes----------------onthecode----------------------------
+5.git add *
+6.git commit -m "commit-----comment"
+7.git push origin "---yr---chosen----new---branch--name--"
